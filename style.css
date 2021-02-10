@@ -1,0 +1,21 @@
+
+.wbody {
+    background: linear-gradient(red, aqua);
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+.WhyILike {
+    font-size: 25px;
+    text-align: center;
+}
+.BigReason {
+    text-align: center;
+    margin: 150px;
+    font-family: inherit;
+    background: linear-gradient(lime, green);
+}
+SupraJDM {
+    width: 50%;
+    height: 50%;    
+}
